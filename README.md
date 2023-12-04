@@ -15,6 +15,6 @@
 
 **Submission date:** 3 December 2023
 
-**Dataset:** https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2
+**Dataset:** https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2  
 **GitHub:** https://github.com/2023327cctcollege/DEP_Lv8_CA1
 ___
